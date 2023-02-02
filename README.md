@@ -9,10 +9,17 @@ Majorly companies apply machine learning models to predict churn on an individua
 In this example, a basic machine learning pipeline based on a sample data set from Kaggle is build and performance of different model types is compared. The pipeline used for this example consists of 8 steps:
 
 Step 1: Problem Definition
+
 Step 2: Data Collection
+
 Step 3: Exploratory Data Analysis (EDA)
+
 Step 4: Feature Engineering
+
 Step 5: Train/Test Split
+
 Step 6: Model Evaluation Metrics Definition
+
 Step 7: Model Selection, Training, Prediction and Assessment
+
 Step 8: Hyperparameter Tuning/Model Improvement
